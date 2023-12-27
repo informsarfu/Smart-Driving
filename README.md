@@ -1,7 +1,4 @@
-# CSE-535-Project5
-Smart driving companion for cars
-
-**Collision Detection Algorithm:**
+# **Collision Detection Algorithm:**
 Challenge Description: 
 The issue at hand involves utilizing a webcam to measure real-world distance by detecting and recognizing cars. The objective is to create a prototype that aids the collision detection algorithm to support individuals in contacting emergency services effortlessly.
 
