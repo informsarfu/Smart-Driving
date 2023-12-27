@@ -1,13 +1,9 @@
-# CSE-535-Project5
-Smart driving companion for cars
+# Driving Score Calculation using Fuzzy inference System
 
 My project deals with finding the driving score of the driver which can be further used to calculate data about the fuel cost efficiency, driver safety and likelihood of crash. I have implemented the fuzzy inference system which calculates the driver score based on three fuzzy variables: Road Condition (Low Cognitive, High Cognitive), Speed of the vehicle and No. of peaks detected ( this is based on the peak detection algorithm implemented as part of the project.)
 
 As part of the peak detection algorithm, It needs to calculate instances such as sudden breaks, lane changes and rash driving as per the driver and this is a continuous process. ( Made use of accelerometer to calculate the data). 
 
-
-
-# Driving Score Calculation using Fuzzy inference System
 ## Installation Guide
 Start by Creating virtual environment in the src folder
 
